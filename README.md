@@ -1,17 +1,13 @@
-![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?_gl=1*fv3ri5*_ga*MTA0ODcwNzgzOC4xNzU1OTQxMDM1*_ga_8JE65Q40S6*czE3NTkxNTk3MTAkbzQkZzEkdDE3NTkxNTk3MzIkajM4JGwwJGgw)
-
 <h1 align="center">Hi 👋, I'm Armağan</h1>
 <h3 align="center">A software developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=armaganarslan&label=Profile%20views&color=0e75b6&style=flat" alt="armaganarslan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=armaganarslan" alt="armaganarslan" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [-](-)
+- 👨‍💻 All of my projects are available at [- Portfolio Website is Coming Soon!](#)
 
 - 📫 How to reach me **armaganarslanwork@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1LwCR5OA8AJ_v1JS14mTKeE6b8O9kTPNa?usp=sharing](https://drive.google.com/drive/folders/1LwCR5OA8AJ_v1JS14mTKeE6b8O9kTPNa?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1LwCR5OA8AJ_v1JS14mTKeE6b8O9kTPNa?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -24,8 +20,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/armaganarslan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="armaganarslan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=armaganarslan&show_icons=true&locale=en&layout=compact" alt="armaganarslan" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=armaganarslan&show_icons=true&locale=en" alt="armaganarslan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=armaganarslan&" alt="armaganarslan" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=armaganarslan&show_icons=true&locale=en&layout=compact" alt="armaganarslan" /></p>
