@@ -1,4 +1,4 @@
-[![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?_gl=1*fv3ri5*_ga*MTA0ODcwNzgzOC4xNzU1OTQxMDM1*_ga_8JE65Q40S6*czE3NTkxNTk3MTAkbzQkZzEkdDE3NTkxNTk3MzIkajM4JGwwJGgw)
+![MasterHead](https://images.pexels.com/photos/546819/pexels-photo-546819.jpeg?_gl=1*fv3ri5*_ga*MTA0ODcwNzgzOC4xNzU1OTQxMDM1*_ga_8JE65Q40S6*czE3NTkxNTk3MTAkbzQkZzEkdDE3NTkxNTk3MzIkajM4JGwwJGgw)
 
 <h1 align="center">Hi 👋, I'm Armağan</h1>
 <h3 align="center">A software developer from Turkey</h3>
