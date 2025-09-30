@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **armaganarslanwork@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/folders/1LwCR5OA8AJ_v1JS14mTKeE6b8O9kTPNa?usp=sharing)
+- 📄 Know about my experiences <a href="https://drive.google.com/drive/folders/1LwCR5OA8AJ_v1JS14mTKeE6b8O9kTPNa?usp=sharing" target="_blank" rel="noopener noreferrer">My Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
